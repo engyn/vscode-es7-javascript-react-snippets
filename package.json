@@ -1,0 +1,17 @@
+{
+  "name": "vscode-es7-javascript-react-snippets",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engyn/vscode-es7-javascript-react-snippets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engyn/vscode-es7-javascript-react-snippets/issues"
+  },
+  "homepage": "https://github.com/engyn/vscode-es7-javascript-react-snippets#readme"
+}
